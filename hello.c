@@ -1,5 +1,4 @@
 #include <stdio.h>
-//test svn//
 
 int main(int argc, char *argv[])
 {
